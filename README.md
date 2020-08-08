@@ -36,7 +36,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhananjyan&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/dhananjayan
 [instagram]: https://www.instagram.com/dhananjayan_sidhan/
